@@ -4,7 +4,7 @@ THis works on ARM(Raspberry Pi) and on x86 linux as long as it's debian based(ra
 It is coded on python and uses Gtk so incredibly light-weight and fast on low resource Computers..
 
 X86:
-![x86](https://user-images.githubusercontent.com/84835176/125391805-b4b73c00-e3c2-11eb-9cc3-48fff2f18924.png)
+<img width="1280" alt="Screenshot 2021-07-13 at 9 58 00 AM" src="https://user-images.githubusercontent.com/84835176/125392090-31e2b100-e3c3-11eb-9636-c9fc7cbbd818.png">
+
 
 Raspberry Pi(Raspberry Pi OS+XFCE here):
-![Screenshot_2021-07-11_16-43-39](https://user-images.githubusercontent.com/84835176/125391892-ce588380-e3c2-11eb-9a84-19e8eea42226.png)
