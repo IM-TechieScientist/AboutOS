@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=About Amog OS
+Comment=Mac OS style UI
+Exec=./sys.py
+Icon=xfce4-statusnotifier-plugin
+Path=/home/pi/Desktop
+Terminal=false
+StartupNotify=false
